@@ -7,12 +7,12 @@ document.addEventListener('DOMContentLoaded', function () {
             return;
         }
 
-        // Call for Papers specific milestone dates
+        // Call for Demos specific milestone dates
         const milestones = [
-            new Date('2025-07-09'), // Submissions Open
-            new Date('2025-08-29'), // Submission Deadline
-            new Date('2025-09-22'), // Accept/Reject Notification
-            new Date('2025-12-06')  // Workshop
+            new Date('2026-08-01'), // Submissions Open
+            new Date('2026-09-19'), // Submission Deadline
+            new Date('2026-09-29'), // Accept/Reject Notification
+            new Date('2026-12-11')  // Workshop
         ];
         document.addEventListener('DOMContentLoaded', function () {
             // Call for Demos specific timeline progress functionality
